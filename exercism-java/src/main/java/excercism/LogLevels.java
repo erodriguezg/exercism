@@ -1,6 +1,4 @@
-package org.example;
-
-import java.util.Map;
+package excercism;
 
 public class LogLevels {
 
