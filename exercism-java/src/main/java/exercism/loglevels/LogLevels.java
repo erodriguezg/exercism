@@ -1,4 +1,4 @@
-package exercism.lvl002;
+package exercism.loglevels;
 
 public class LogLevels {
 
